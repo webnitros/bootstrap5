@@ -37,3 +37,7 @@ https://fandeco.github.io/PROJECT_NAME/
 После первого commit будет автоматически создана ветка pages
 Для включения сайт нужно зайти в настройки и выполнить действия на скриншоте
 ![alt tag](page_publishe.jpg "Описание будет тут")​
+
+
+### generate filter 
+https://codepen.io/sosuke/pen/Pjoqqp

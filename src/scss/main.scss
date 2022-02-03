@@ -1,6 +1,21 @@
 // node_module
-@import "../../node_modules/bootstrap/scss/bootstrap.scss";
-// variables
-@import "second";
-@import "fonts";
-@import "variables";
+@import "bootstrap/default";
+@import "mixins/default";
+@import "common/fonts";
+@import "common/containers";
+@import "common/zoom";
+@import "common/button";
+@import "common/spinner";
+@import "common/content";
+@import "common/headers/banner";
+@import "common/headers/top_mobile";
+@import "common/headers/top";
+@import "common/headers/center";
+@import "common/headers/menu";
+@import "common/headers/user";
+@import "tests";
+
+// =================================================================
+// Page - all page html
+@import "page";
+// =================================================================
