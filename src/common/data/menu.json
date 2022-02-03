@@ -48,6 +48,12 @@
     "children": ""
   },
   {
+    "title": "еще",
+    "url": "/products_new_card.html",
+    "class": "more dropdown",
+    "children": "<ul class=\"dropdown-menu\" aria-labelledby=\"dropdownMenu2\">\n                        <li><button class=\"dropdown-item\" type=\"button\">Action</button></li>\n                        <li><button class=\"dropdown-item\" type=\"button\">Another</button></li>\n                    </ul>"
+  },
+  {
     "title": "Декор",
     "url": "/products_new_card.html",
     "class": "",
@@ -58,11 +64,5 @@
     "url": "/products_new_card.html",
     "class": "",
     "children": ""
-  },
-  {
-    "title": "еще",
-    "url": "/products_new_card.html",
-    "class": "more dropdown",
-    "children": "<ul class=\"dropdown-menu\" aria-labelledby=\"dropdownMenu2\">\n                        <li><button class=\"dropdown-item\" type=\"button\">Action</button></li>\n                        <li><button class=\"dropdown-item\" type=\"button\">Another</button></li>\n                    </ul>"
   }
 ]

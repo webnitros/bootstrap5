@@ -7,14 +7,14 @@
   }
 }
 
-
 html {
   $zoom: 1;
   $screen: 1240px;
   @for $i from 1 through 40 {
-      $screen: $screen - 10;
-      $zoom: $zoom - 0.008;
-      @include mediaZoom($screen,$zoom);
+    $screen: $screen - 10;
+    $zoom: $zoom - 0.008;
+    @include mediaZoom($screen, $zoom);
   }
 }
+
 

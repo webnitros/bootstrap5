@@ -1,9 +1,3 @@
-@mixin mobileDisplayNone() {
-  @media screen and (max-width: 1024px) {
-    display: none;
-  }
-}
-
 @mixin reset-list(){
   padding: 0;
   margin: 0;
